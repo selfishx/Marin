@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/06129d917642f323f77a3.jpg">
+  <img src="https://te.legra.ph/file/30e1240386b38f41dea2b.jpg">
 </p>
 
 
-<p align="center"><strong>PglRobot is an extraordinary telegram group manager bot developed with the help of bots available in Telegram.</strong></p>
+<p align="center"><strong>Marin is an extraordinary telegram group manager bot developed with the help of bots available in Telegram.</strong></p>
 
 
 <h1> How to setup/deploy</h1>
@@ -173,7 +173,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## Deploy on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/PglRobot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfishx/marin.git) 
   
 
 
