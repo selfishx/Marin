@@ -77,7 +77,7 @@ Hi {}, my name is {}!
 I am a  Powerfull  group management bot. You can find my list of available commands with /help.
 """
 G_START_TEXT = """
-Hello PglRobot Is In The Chat.
+Hello Marin Is In The Chat.
 Uptime - {}!
 """
 
@@ -101,14 +101,14 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-PglRobot_IMG = "https://telegra.ph/file/f1d7b30b05ba9f0dbf4e5.jpg"
+PglRobot_IMG = "https://te.legra.ph/file/30e1240386b38f41dea2b.jpg"
 
-PglRobotG_IMG = "https://telegra.ph/file/e8881931bc000c75e8f13.jpg"
+PglRobotG_IMG = "https://te.legra.ph/file/a882287643765895bc5b9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [Gaurav Verma](https://t.me/iisgaurav).
- Using [PayPal](paypal.me/iisgaurav).
- Those who cannot provide monetary support are welcome to help us develop the bot at @VegaCodes.
+ You can support the project by contacting [classy](https://t.me/s_e_l_f_i_s_h_x_7).
+ Using [PayPal](t.me/classy_network).
+ Those who cannot provide monetary support are welcome to help us develop the bot at @classy_network.
  """
 
 IMPORTED = {}
@@ -239,13 +239,13 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/VCUpdates",
+                                url="https://t.me/classy_network_channel",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="SOURCE CODE ⚡️",
-                                url="https://github.com/iisgaurav/PglRobot",
+                                text="NETWORK ⚡️",
+                                url="https://t.me/classy_network",
                             ),
                         ],
                     ]
